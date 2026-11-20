@@ -1,0 +1,6 @@
+{
+  "name": "كيو سينما ستوديو | VIP Video & Audio Mastering",
+  "description": "استوديو احترافي لتحويل فيديو كو إلى مشهد دخول VIP مع الحراس الشخصيين بالذكاء الاصطناعي مع تنقية الصوت ومزامنة الموسيقى التصويرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

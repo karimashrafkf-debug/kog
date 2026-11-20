@@ -1,0 +1,59 @@
+{
+  "renders": [
+    {
+      "id": "master_1795208762667",
+      "kind": "audio-master",
+      "titleAr": "صوت مُحسّن: فيديو كو الأصلي (KO_41970bae)",
+      "createdAt": "2026-11-20T21:06:06.243Z",
+      "url": "/renders/mastered_1795208762667.mp4",
+      "durationSec": 28.9,
+      "promptSummary": "عزل ضوضاء -25dB · توازن -14 LUFS",
+      "beforeMetrics": {
+        "durationSec": 28.9,
+        "meanVolumeDb": -20,
+        "maxVolumeDb": -5.4,
+        "sampleRate": 44100,
+        "channels": 2,
+        "codec": "aac"
+      },
+      "afterMetrics": {
+        "durationSec": 28.9,
+        "meanVolumeDb": -15.6,
+        "maxVolumeDb": -1.4,
+        "sampleRate": 96000,
+        "channels": 2,
+        "codec": "aac"
+      }
+    }
+  ],
+  "uploads": [],
+  "suggestions": [
+    {
+      "id": "vip-trap-cinema",
+      "titleAr": "فخامة VIP — باص عميق وإيقاع بطيء",
+      "genreAr": "Luxury Trap / Cinema Phonk",
+      "bpm": 94,
+      "moodAr": "هيبة، ثقة مطلقة، وتناغم مثالي مع المشي البطيء والحراس الشخصيين",
+      "mixingTipAr": "اخفض الصوت الأصلي إلى 25% وارفع الموسيقى إلى 85% مع تنقية -14 LUFS",
+      "lyriaPrompt": "Ultra-luxury dark cinematic trap beat at 94 BPM, deep sub-bass 808s, crisp minimalist hi-hats, moody dark brass stabs, high-fashion runway VIP swagger atmosphere, clean studio master."
+    },
+    {
+      "id": "dark-orchestral-walk",
+      "titleAr": "موكب القوة — أوركسترا داكنة وحديثة",
+      "genreAr": "Modern Dark Orchestral",
+      "bpm": 88,
+      "moodAr": "دراما سينمائية فاخرة مع أوتار عميقة وإيقاع مهيب لحظة الخروج من السيارة",
+      "mixingTipAr": "حافظ على الصوت الأصلي عند 40% لإبراز خطوات المشي وأبواب السيارة",
+      "lyriaPrompt": "Sleek modern dark orchestral cinema score at 88 BPM, low cello ostinato, warm analog synth bass, subtle heavy percussion hits, prestigious billionaire arrival mood, polished studio mix."
+    },
+    {
+      "id": "night-runway-house",
+      "titleAr": "إيقاع الشارع الفاخر — ديب هاوس أنيق",
+      "genreAr": "Editorial Deep House",
+      "bpm": 118,
+      "moodAr": "أجواء عروض الأزياء والماركات العالمية مع إيقاع سلس ونظيف",
+      "mixingTipAr": "استخدم إعداد تنقية سينمائية متوازنة لمزج صوت الشارع بنعومة",
+      "lyriaPrompt": "Sophisticated upscale fashion runway deep house track at 118 BPM, warm analog bassline, crisp atmospheric plucks, clean minimal groove, luxury boutique street walk vibe."
+    }
+  ]
+}
